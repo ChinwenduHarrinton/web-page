@@ -1,0 +1,38 @@
+.logo {
+    height: 50px;
+    width: 50px;
+}
+.div1{
+   
+    border-color: rgb(252, 6, 6);
+   width: 250px;
+   display: flex;
+   align-items: center;
+}
+nav{
+    
+    border-color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 500px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(10, 233, 47);
+}
+.logotext{
+   
+    font-size: 20px;
+  margin-left: 10px;
+}
+.span1{
+    color: yellow;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    border-bottom: 2px solid rgb(231, 13, 13);
+}
